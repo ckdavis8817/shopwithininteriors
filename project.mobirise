@@ -59,9 +59,9 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Shop Within Design |Antique Vintage Art Furniture Where Love Begins ",
-        "meta_descr": "WELCOME Within Design Milwaukee premier antique, vintage, art and furniture.  Within Design Milwaukee is the premier online shop for the most sought after art, vintage, antique and furniture in the Midwest.  African, Tibet, 16th to 20th century,English are some of the rare finds. Authentic works from around the world. Welcome Home...",
-        "header_custom": "",
+        "title": "Shop Online  Within Design |Antique Vintage Art Furniture Where Love Begins ",
+        "meta_descr": " Within Design Milwaukee premier antique, vintage, art and furniture.  Within Design Milwaukee is the premier online shop for the most sought after art, vintage, antique and furniture in the Midwest.  African, Tibet, 16th to 20th century,English are some of the rare finds. Authentic works from around the world. Welcome Home...",
+        "header_custom": "<!-- made by www.metatags.org -->\n<meta name=\"description\" content=\" Within Design Milwaukee premier antique, vintage, art and furniture.  Within Design Milwaukee is the premier online shop for the most sought after art, vintage, antique and furniture in the Midwest. \" />\n<meta name=\"keywords\" content=\"art, antique,vintage,furniture,mid-century,shop,online,milwaukee,1stchoice,a1stchoice,unique,rare,asian,wisconsin\" />\n<meta name=\"author\" content=\"metatags generator\">\n<meta name=\"robots\" content=\"index, follow\">\n<meta name=\"revisit-after\" content=\"7 days\">\n<title>Shop Online Within Design |Antique Vintage Art Furniture Where Love Begins </title>\n<!-- vintage,art,furniture -->",
         "footer_custom": "",
         "html_before": ""
       },
@@ -982,9 +982,10 @@
     },
     "artwork1.html": {
       "settings": {
-        "title": "Antique Vintage Curated Art Within Design Milwaukee",
+        "title": "Shop Online Antique Vintage Curated Art Within Design Milwaukee",
         "order": 5,
-        "meta_descr": "Within Designs impressive curated collection of antique vintage art. Art signed by the artist and  authenticated.  Within Design Milwaukee is a premier destination. You can  own SPANISH 17TH CENTURY OIL OF CHRIST'S CRUCIFIXION,  JOHN JAMES AUDUBON Litho, MARK CATESBY are just some of the art found on this here. "
+        "meta_descr": "Within Design impressive curated collection of antique vintage art. Art signed by the artist and  authenticated.  Within Design Milwaukee is a premier destination. You can  own SPANISH 17TH CENTURY OIL OF CHRIST'S CRUCIFIXION,  JOHN JAMES AUDUBON Litho, MARK CATESBY are just some of the art found on this here. ",
+        "header_custom": "<!-- made by www.metatags.org -->\n<meta name=\"description\" content=\"Within Design impressive curated collection of antique vintage art. Art signed by the artist and  authenticated.  Within Design Milwaukee is a premier destination. You can  own SPANISH 17TH CENTURY OI\" />\n<meta name=\"keywords\" content=\"art,signed,artist,curated,impressive,antique,17th century,christ,CRUCIFIXION,mexico,collector,dream,love,within,design,milwaukee,wisconsin\" />\n<meta name=\"author\" content=\"metatags generator\">\n<meta name=\"robots\" content=\"index, follow\">\n<meta name=\"revisit-after\" content=\"7 days\">\n<title>Shop Online Antique Vintage Curated Art Within Design Milwaukee</title>\n<!-- 1stchoice,collectors,love -->"
       },
       "components": [
         {
@@ -2454,9 +2455,11 @@
     },
     "showcase.html": {
       "settings": {
-        "title": "Within Design Milwaukee Gallery Showcase Highlights Unique Art",
+        "title": "Shop Online Within Design Milwaukee Gallery Showcase Highlights Unique Art",
         "order": 2,
-        "meta_descr": "Gallery showcase of Within Design Milwaukee highlights existing or upcoming works that can be found here.  Rare finds of curated art, antiques and furniture are presented for those seeking that unique art or furniture.  Milwaukee Within Design curates year-round and new procurements will be found here."
+        "meta_descr": "Gallery showcase of Within Design Milwaukee highlights existing or upcoming works that can be found here.  Rare finds of curated art, antiques and furniture are presented for those seeking that unique art or furniture.  Milwaukee Within Design curates year-round and new procurements will be found here.",
+        "header_custom": "",
+        "footer_custom": ""
       },
       "components": [
         {
@@ -3236,7 +3239,8 @@
       "settings": {
         "title": "Within Design Rare Vintage Art Furniture Curated Gallery Milwaukee",
         "order": 1,
-        "meta_descr": "Within Design rare vintage art that defy classification.  This is a gallery of  curated objects of all kinds. . Rare African tribal mask, GUSTAVSBERG ARGENTA, Cooper Hell Tank, ANTIQUE JAPY FRERES CLOCK,JACK PEPLINSKI(SIGNED) .  We invite you to take a look because when we find rare items, we will post them here."
+        "meta_descr": "Within Design rare vintage art that defy classification.  This is a gallery of  curated objects of all kinds. . Rare African tribal mask, GUSTAVSBERG ARGENTA, Cooper Hell Tank, ANTIQUE JAPY FRERES CLOCK,JACK PEPLINSKI(SIGNED) .  We invite you to take a look because when we find rare items, we will post them here.",
+        "header_custom": "<!-- made by www.metatags.org -->\n<meta name=\"description\" content=\"Within Design rare vintage art that defy classification.  This is a gallery of  curated objects of all kinds. . Rare African tribal mask, GUSTAVSBERG ARGENTA, Cooper Hell Tank, ANTIQUE JAPY FRERES CLO\" />\n<meta name=\"keywords\" content=\"art,vintage,rare,unique,milwaukee,wisconsin,destination,midwest,african,tibet,authentic,curated,gallery,1stchooice,a1stcoice,collectors,love,dream\" />\n<meta name=\"author\" content=\"metatags generator\">\n<meta name=\"robots\" content=\"index, follow\">\n<meta name=\"revisit-after\" content=\"7 days\">\n<title>Within Design Rare Vintage Art Furniture Curated Gallery Milwaukee</title>\n<!-- rare,art,collectors -->"
       },
       "components": [
         {
@@ -4716,9 +4720,10 @@
     },
     "uniqueart.html": {
       "settings": {
-        "title": "Unique Curated Vintage Art Furniture Within Design Milwaukee",
+        "title": "Shop Online Unique Curated Vintage Art Furniture Within Design Milwaukee",
         "order": 3,
-        "meta_descr": "Milwaukee Within Design vintage curated Asian art that is unique and highly sought by collectors. TIBETAN THANGKA, 19TH C, CHINESE CARVED WOOD ANCESTOR FIGURES, 19TH C can be found here.  You don't want to miss the opportunity to own one of these. "
+        "meta_descr": "Milwaukee Within Design vintage curated Asian art that is unique and highly sought by collectors. TIBETAN THANGKA, 19TH C, CHINESE CARVED WOOD ANCESTOR FIGURES, 19TH C can be found here.  You don't want to miss the opportunity to own one of these. ",
+        "header_custom": ""
       },
       "components": [
         {
@@ -5960,9 +5965,10 @@
     },
     "vintagefurniture1.html": {
       "settings": {
-        "title": "Vintage Furniture American English Mid Century Within Design Milwaukee",
+        "title": "Shop Online Vintage Furniture English Mid Century Within Design Milwaukee",
         "order": 4,
-        "meta_descr": "Within Design curated vintage  furniture from the 19th century. Mid century Danish  desk, CONVERTABLE TABLE TO CHAIR(RARE) and a French style mantel clock are just some vintage furniture. Vintage furniture will be posted here as they become available.  Vintage furniture never goes out of style. You have to take a look."
+        "meta_descr": "Within Design curated vintage  furniture from the 19th century. Mid century Danish  desk, CONVERTABLE TABLE TO CHAIR(RARE) and a French style mantel clock are just some vintage furniture. Vintage furniture will be posted here as they become available.  Vintage furniture never goes out of style. You have to take a look.",
+        "header_custom": ""
       },
       "components": [
         {
@@ -7272,7 +7278,8 @@
       "settings": {
         "title": "Within Design Milwaukee Privacy Policy Store Services",
         "order": 6,
-        "meta_descr": "Within Design Milwaukee When you use our store services, you trust us with your information. This Privacy Policy is meant to help you understand what data we collect, why we collect it, and what we do with it. When you share information with us, we can make our services even better for you.\n"
+        "meta_descr": "Within Design Milwaukee When you use our store services, you trust us with your information. This Privacy Policy is meant to help you understand what data we collect, why we collect it, and what we do with it. When you share information with us, we can make our services even better for you.\n",
+        "header_custom": ""
       },
       "components": [
         {
